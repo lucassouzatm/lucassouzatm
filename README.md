@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas 👋
 
-- 🔭 Hoje eu trabalho como IT Analyst porém em estudo para front-end 
+- 🔭 Front End e ReactJS
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: lucassouzatm@gmail.com
 - 😄 Pronouns: ele/dele
