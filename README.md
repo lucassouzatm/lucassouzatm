@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas 👋
 
-- 🔭 Front End e ReactJS
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Backend e NodeJS
+- 🌱 Estudando JavaScript e NodeJS
 - 📫 Contate-me no email: lucassouzatm@gmail.com
 - 😄 Pronouns: ele/dele
 
